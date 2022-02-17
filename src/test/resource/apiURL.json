@@ -1,0 +1,5 @@
+{
+  "details": "https://api.hub.knime.com/repository/Users/huytran?spaceDetails=true&contribSpaces=children",
+  "create": "https://api.hub.knime.com/repository/Users/huytran/New%20space?overwrite=false",
+  "delete": "https://api.hub.knime.com/repository/Users/huytran/New%20space"
+}
